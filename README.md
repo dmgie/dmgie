@@ -1,7 +1,7 @@
 # Daniel Giesel
 
 <!--I'm currently a Masters student @ Ebhards Karl Universität Tübingen.-->
-A long interest in the Biosciences (after a Bachelors in Biochemistry) and a love for computers had led me to the cross-section between these, that is the discipline of Bioinformatics. 
+A long interest in the Biosciences (after a Bachelors in Biochemistry) and a love for all things computers had led me to the cross-section between these, that is the discipline of Bioinformatics. 
 
 Although I do dip my toes in a variety of subjects, my current interest lie within the topic of Transcriptomics. My current profile has yet much to offer, though recent work has included trying to annotate intergenomic regions of a variety of organisms to find the possible presence of non-coding RNAs (ncRNAs).
 
