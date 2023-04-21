@@ -1,4 +1,4 @@
-# Daniel Giesel
+# About Me
 
 <!--I'm currently a Masters student @ Ebhards Karl Universität Tübingen.-->
 A long interest in the Biosciences (after a Bachelors in Biochemistry) and a love for all things computers had led me to the cross-section between them: Bioinformatics. 
